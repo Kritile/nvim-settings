@@ -1,6 +1,7 @@
 ## Installation Neovim
 
 Requires NodeJs >= 12.12
+Requires [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) for fork `live_grep`
 
 ### Windows 
 
